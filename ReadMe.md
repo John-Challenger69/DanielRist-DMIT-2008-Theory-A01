@@ -2,7 +2,7 @@
 
 > Student Name: **John-Challenger69**
 
-![Website Screenshot](./docs/images/screenshot.png)
+![alt text](image.png)
 
 In this assignment, you will demonstrate your ability to
 
